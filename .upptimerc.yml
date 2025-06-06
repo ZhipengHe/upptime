@@ -4,17 +4,17 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Homepage
-    url: https://zhipenghe.com
+    url: https://zhipenghe.me
   - name: URL Shortener
     url: https://zhipe.ng
   - name: Onyx
-    url: https://onyx.zhipenghe.com
+    url: https://onyx.zhipenghe.me
   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.zhipenghe.com
+  cname: status.zhipenghe.me
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
