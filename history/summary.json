@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 369,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 232,
+    "timeDay": 203,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 458,
-    "timeWeek": 391,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "time": 359,
+    "timeDay": 198,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   },
   {
@@ -40,20 +40,18 @@
     "url": "https://onyx.zhipenghe.me",
     "icon": "https://icons.duckduckgo.com/ip3/onyx.zhipenghe.me.ico",
     "slug": "onyx",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 1288,
-    "timeDay": 1376,
-    "timeWeek": 1288,
-    "timeMonth": 1288,
-    "timeYear": 1288,
-    "dailyMinutesDown": {
-      "2025-06-07": 6
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1333,
+    "timeDay": 1446,
+    "timeWeek": 1333,
+    "timeMonth": 1333,
+    "timeYear": 1333,
+    "dailyMinutesDown": {}
   },
   {
     "name": "XAMI Lab",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 288,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "time": 299,
+    "timeDay": 293,
+    "timeWeek": 299,
+    "timeMonth": 299,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   }
 ]
