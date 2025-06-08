@@ -10,6 +10,8 @@ sites:
     url: https://zhipe.ng
   - name: Onyx
     url: https://onyx.zhipenghe.me
+  - name: Glance
+    url: https://dashboard.zhipenghe.me
   - name: XAMI Lab
     url: https://www.xami-lab.org
   
