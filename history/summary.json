@@ -58,18 +58,20 @@
     "url": "https://dashboard.zhipenghe.me",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.zhipenghe.me.ico",
     "slug": "glance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 547,
-    "timeWeek": 552,
-    "timeMonth": 552,
-    "timeYear": 552,
-    "dailyMinutesDown": {}
+    "time": 620,
+    "timeDay": 754,
+    "timeWeek": 620,
+    "timeMonth": 620,
+    "timeYear": 620,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "XAMI Lab",
