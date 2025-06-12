@@ -58,19 +58,19 @@
     "url": "https://dashboard.zhipenghe.me",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.zhipenghe.me.ico",
     "slug": "glance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 754,
-    "timeWeek": 620,
-    "timeMonth": 620,
-    "timeYear": 620,
+    "status": "up",
+    "uptime": "97.88%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
+    "time": 614,
+    "timeDay": 696,
+    "timeWeek": 614,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 129
     }
   },
   {
