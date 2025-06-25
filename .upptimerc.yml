@@ -12,6 +12,9 @@ sites:
     url: https://onyx.zhipenghe.me
   - name: Glance
     url: https://dashboard.zhipenghe.me
+    icon: https://cdn.jsdelivr.net/gh/glanceapp/glance/internal/glance/static/app-icon.png
+  - name: RSSHub
+    url: $RSSHUB_URL
   - name: XAMI Lab
     url: https://www.xami-lab.org
   
