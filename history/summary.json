@@ -5,16 +5,16 @@
     "icon": "https://zhipenghe.me/assets/img/favicon.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 242,
-    "timeDay": 169,
+    "uptimeYear": "99.76%",
+    "time": 244,
+    "timeDay": 397,
     "timeWeek": 279,
-    "timeMonth": 243,
-    "timeYear": 242,
+    "timeMonth": 252,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2025-07-13": 265
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 585,
-    "timeWeek": 403,
-    "timeMonth": 359,
-    "timeYear": 355,
+    "time": 360,
+    "timeDay": 811,
+    "timeWeek": 397,
+    "timeMonth": 379,
+    "timeYear": 360,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1500,
-    "timeDay": 2222,
-    "timeWeek": 2244,
-    "timeMonth": 1683,
-    "timeYear": 1500,
+    "time": 1498,
+    "timeDay": 1337,
+    "timeWeek": 2043,
+    "timeMonth": 1679,
+    "timeYear": 1498,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 553,
-    "timeDay": 528,
-    "timeWeek": 571,
-    "timeMonth": 554,
-    "timeYear": 553,
+    "time": 556,
+    "timeDay": 799,
+    "timeWeek": 567,
+    "timeMonth": 564,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2025-06-12": 129
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 172,
-    "timeWeek": 355,
-    "timeMonth": 574,
-    "timeYear": 480,
+    "time": 484,
+    "timeDay": 731,
+    "timeWeek": 395,
+    "timeMonth": 589,
+    "timeYear": 484,
     "dailyMinutesDown": {}
   },
   {
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 373,
-    "timeWeek": 297,
-    "timeMonth": 326,
+    "timeDay": 308,
+    "timeWeek": 317,
+    "timeMonth": 325,
     "timeYear": 301,
     "dailyMinutesDown": {}
   }
