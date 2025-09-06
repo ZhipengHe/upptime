@@ -6,6 +6,9 @@ sites:
   - name: Homepage
     url: https://zhipenghe.me
     icon: https://zhipenghe.me/assets/img/favicon.ico
+  - name: Upptime
+    url: https://status.zhipenghe.me
+    icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   - name: URL Shortener
     url: https://zhipe.ng
   - name: Onyx
