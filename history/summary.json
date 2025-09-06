@@ -42,18 +42,20 @@
     "url": "https://onyx.zhipenghe.me",
     "icon": "https://icons.duckduckgo.com/ip3/onyx.zhipenghe.me.ico",
     "slug": "onyx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1561,
-    "timeDay": 2572,
-    "timeWeek": 1734,
-    "timeMonth": 1859,
-    "timeYear": 1561,
-    "dailyMinutesDown": {}
+    "time": 1550,
+    "timeDay": 1527,
+    "timeWeek": 1578,
+    "timeMonth": 1816,
+    "timeYear": 1550,
+    "dailyMinutesDown": {
+      "2025-09-06": 0
+    }
   },
   {
     "name": "Glance",
