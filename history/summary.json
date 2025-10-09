@@ -43,19 +43,19 @@
     "url": "https://zhipe.ng",
     "icon": "https://icons.duckduckgo.com/ip3/zhipe.ng.ico",
     "slug": "url-shortener",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 2804,
-    "timeWeek": 653,
-    "timeMonth": 541,
-    "timeYear": 429,
+    "time": 427,
+    "timeDay": 1479,
+    "timeWeek": 591,
+    "timeMonth": 528,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-10-09": 0
+      "2025-10-09": 7
     }
   },
   {
