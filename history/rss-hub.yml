@@ -1,7 +1,7 @@
 url: $RSSHUB_URL
-status: down
-code: 500
-responseTime: 246
-lastUpdated: 2025-11-18T11:48:49.890Z
+status: up
+code: 200
+responseTime: 663
+lastUpdated: 2025-11-18T11:54:54.701Z
 startTime: 2025-06-25T06:59:06.367Z
 generator: Upptime <https://github.com/upptime/upptime>
