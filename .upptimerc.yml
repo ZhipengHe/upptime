@@ -45,4 +45,7 @@ status-website:
 assignees:
   - ZhipengHe
 
+workflowSchedule:
+  uptime: "*/10 * * * *"
+
 user-agent: ZhipengHe
